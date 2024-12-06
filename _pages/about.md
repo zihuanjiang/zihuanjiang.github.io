@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: my_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#    <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Under Construction**
+I am an undergraduate student pursuing a Bachelor of Applied Science in [Engineering Science](https://engsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), specializing in [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/). Currently in my Professional Experience Year (PEY) Co-op, I am working as a Research Assistant at [Huawei Canada](https://www.huawei.com/ca/), with an expected return to campus in September 2025.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My primary research focuses revolve around large language models (LLMs) and their downstream inference tasks, with specific expertise in: LLM Quantization, RAG, CoT, and Diffusion models. I am currently contributing to cutting-edge research, including a paper under review for CVPR 2025.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond my academic and professional pursuits, I enjoy strategic and intellectually stimulating activities. I am an enthusiast of complex board games such as Avalon, Werewolf, Chinese Chess, and Go. In my leisure time, I find pleasure in reading novels, especially Chinese Mysterious Fantasy novals.
+
+**Email**: jiangzihuan123@gmail.com
