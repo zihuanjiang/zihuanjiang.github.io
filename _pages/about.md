@@ -19,9 +19,10 @@ social: true # includes social icons at the bottom of the page
 ---
 
 **Under Construction**
-I am an undergraduate student pursuing a Bachelor of Applied Science in [Engineering Science](https://engsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), specializing in [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/). Currently in my Professional Experience Year (PEY) Co-op, I am working as a Research Assistant at [Huawei Canada](https://www.huawei.com/ca/), with an expected return to campus in September 2025.
 
-My primary research focuses revolve around large language models (LLMs) and their downstream inference tasks, with specific expertise in: LLM Quantization, RAG, CoT, and Diffusion models. I am currently contributing to cutting-edge research, including a paper under review for CVPR 2025.
+I am an undergraduate student pursuing a Bachelor of Applied Science in [Engineering Science](https://engsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), specializing in [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/). I am currently in my Professional Experience Year (PEY), working as a Research Assistant at [Huawei Canada](https://www.huawei.com/ca/), with plans to return to campus in September 2025.
+
+My primary research focuses revolve around large language models (LLMs) and their downstream inference tasks, with specific expertise in: LLM Quantization, RAG, CoT, and Diffusion models.
 
 Beyond my academic and professional pursuits, I enjoy strategic and intellectually stimulating activities. I am an enthusiast of complex board games such as Avalon, Werewolf, Chinese Chess, and Go. In my leisure time, I find pleasure in reading novels, especially Chinese Mysterious Fantasy novals.
 
